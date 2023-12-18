@@ -1,17 +1,37 @@
-# Timer
+# Timer ⏰
   
 > Status: Developed ✅
 
 <img src="project_image.png">
 
+### About the project
 The timer/pomodoro design was developed especially for studies/moments that require total focus. 
 
-### Technologies used:
-* HTML
-* CSS
-* JAVASCRIPT
+### Technologies used in this project 🛠️
 
-With it you can enable and disable background music (in this case, lo-fi), determine the time required for each cycle and also sounds when the timer starts and ends
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS]([https://react.dev](https://developer.mozilla.org/en-US/docs/Web/CSS))
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-### Challenges encountered while developing your project
-I had some difficulties during the development of this project, specifically in the timer logic, and I learned how to add sounds to the icons, something I didn't know.
+## Contribute to the development of the project 💻
+
+1. Fork this repository, using the button that appears in the top right corner `fork`.
+
+To get the files onto your machine now, you clone the repository you added to your github. To do this, inside your repository there will be a `code` button where you can copy a url. Use it to run the command inside the folder you want `git clone <link copied>`.
+
+![Url git clone](https://media.canva.com/1/image-resize/1/470_254_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9tWDBzYy9NQUYzUWJtWDBzYy8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAJJ5Lyit5vkpAIuF3o2jCZDKf1nNefq6S2D1o72RmazA&exp=1702850385&x-canva-quality=screen&csig=AAAAAAAAAAAAAAAAAAAAAIrevhrP2yG-BwtbAYRu9UssC9kiwLq8tfixIQ8KfQ2y)
+
+2. Select the IDE of your choice, open the project folder and install the necessary dependencies using the "npm install" command in the terminal.
+
+3. After installing the dependencies, start the project using the command "npm run dev"
+
+> For the project to work, the same process must be carried out in the "api" folder, which is located inside the myNotes folder.
+
+4. Edit the code in the way you think will be best for the project, adding features, solving problems you find.
+
+5. Make a `pull request` to the repository of the project in question and describe exactly what has changed and any action needed to test or run it.
+
+## Disclaimer and Copyright ©️
+Application developed through the Explorer module of the @Rocketseat education platform
+
+### Thank you in advance for any contribution!
