@@ -21,9 +21,7 @@ To get the files onto your machine now, you clone the repository you added to yo
 
 ![Url git clone](https://media.canva.com/1/image-resize/1/470_254_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9tWDBzYy9NQUYzUWJtWDBzYy8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAJJ5Lyit5vkpAIuF3o2jCZDKf1nNefq6S2D1o72RmazA&exp=1702850385&x-canva-quality=screen&csig=AAAAAAAAAAAAAAAAAAAAAIrevhrP2yG-BwtbAYRu9UssC9kiwLq8tfixIQ8KfQ2y)
 
-2. Select the IDE of your choice, open the project folder and install the necessary dependencies using the "npm install" command in the terminal.
-
-3. After installing the dependencies, start the project using the command "npm run dev"
+2. Select the IDE of your choice, open the project folder and run the "index.html" file.
 
 4. Edit the code in the way you think will be best for the project, adding features, solving problems you find.
 
