@@ -10,7 +10,7 @@ The timer/pomodoro design was developed especially for studies/moments that requ
 ### Technologies used in this project 🛠️
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS]([https://react.dev](https://developer.mozilla.org/en-US/docs/Web/CSS))
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## Contribute to the development of the project 💻
