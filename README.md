@@ -25,8 +25,6 @@ To get the files onto your machine now, you clone the repository you added to yo
 
 3. After installing the dependencies, start the project using the command "npm run dev"
 
-> For the project to work, the same process must be carried out in the "api" folder, which is located inside the myNotes folder.
-
 4. Edit the code in the way you think will be best for the project, adding features, solving problems you find.
 
 5. Make a `pull request` to the repository of the project in question and describe exactly what has changed and any action needed to test or run it.
